@@ -4,7 +4,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/snathjr/ghost-on-heroku.git"
+    "url": "git://github.com/HeribertoKubuntu/GhostBlogHeroku.git"
   },
   "bugs": "https://github.com/TryGhost/Ghost/issues",
   "private": true,

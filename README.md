@@ -22,7 +22,7 @@ The latest release of Ghost is now supported! Changes include:
 
 ### Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HeribertoKubuntu/GhostBlogHeroku)
 
 
 
